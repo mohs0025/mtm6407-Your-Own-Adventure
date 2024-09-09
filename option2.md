@@ -5,4 +5,5 @@ You scramble up the fence, the sharp metal cutting into your hands. The footstep
 # What will you do next?
 
 [Option 2A: Jump down quickly and run.](./option2A.md)
+
 [Option 2B: Climb down slowly to avoid making noise.](./Option2B.md)
