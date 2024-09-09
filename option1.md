@@ -4,4 +4,5 @@ You crouch low behind the shed, trying to control your breathing. The footsteps 
 
 ## What you will do next? 
 [Option 1A: Stay hidden behind the shed and wait.](./option1a.md)
+
 [Option 1B: Sneak inside the shed and find a hiding place.](./option1b.md)
