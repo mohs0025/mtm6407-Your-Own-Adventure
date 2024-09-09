@@ -4,3 +4,5 @@ The rain pounded against the cold prison walls. You’ve been planning your esca
 What will you do next?
 
 [Option 1:  Hide behind the nearby shed](./option1.md)
+
+[option 3:  Run towards the woods to the east.](./option3.md)
