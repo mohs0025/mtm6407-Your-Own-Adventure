@@ -9,4 +9,4 @@ With no other viable options, you decide to retreat back down the hill. Now youâ
 
 [Option3A:  Take the narrow forest trail](./option3A.md)
 
-[Option 3B: Climb the steep hill for a vantage point](./option3B.md)
+[Option 3B: Climb the steep hill for a vantage point](./option3b.md)
