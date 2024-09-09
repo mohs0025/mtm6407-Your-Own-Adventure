@@ -8,3 +8,5 @@ What will you do next?
 [Option 2: Climb the fence quickly before they see you](./option2.md)
 
 [option 3:  Run towards the woods to the east.](./option3.md)
+
+[Option 4: Call your cousin and ask for help.](./option4.md)
