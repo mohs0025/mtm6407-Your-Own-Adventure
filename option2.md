@@ -6,4 +6,3 @@ You scramble up the fence, the sharp metal cutting into your hands. The footstep
 
 [Option 2A: Jump down quickly and run.](./option2a.md)
 [Option 2B: Climb down slowly to avoid making noise.](./option2b.md)
-
